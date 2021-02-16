@@ -1,0 +1,6 @@
+02/16/21 13:21:18
+Day of month, Time of data collection, Wind speed (kph), Visibility (km), Weather, Sky COnditions, Air Temp (C), Dewpoint (C), 6 Hour Max Temp, 6 Hour Min Temp, Relative Humidity (%), Wind Chill (C), Heat Index (C), Alitimeter Pressure (cm), Sea Level (mb), Precipitation 1h r (cm), Precipitation 3hr (cm), Precipitation 6h (cm)
+16, 12:53, W29G42, 16, Fair, CLR, 21.7, 4.4, , , 32%, NA, NA, 76.07, 1014.3, , , 
+---
+Minute since start, Events per minute
+1, 15
