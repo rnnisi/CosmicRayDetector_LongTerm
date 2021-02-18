@@ -1,0 +1,7 @@
+2/17/21
+[RN] 11:30 am
+
+I had an error in the UpdateParentDir script so that it made the new directory for today in the root. I fixed it so now the directory should be made in the working directory when crontab runs the script
+
+I lost the first 12 hours of today due to this issue. I will check that it is working properly first thing tomorrow.
+
